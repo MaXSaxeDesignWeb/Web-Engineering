@@ -6,6 +6,10 @@
 
 ---
 
+# MaX Saxe Design Documentation and Specification Examples and Information will be Uploaded to the MaX Saxe Design Web Site September 2016
+
+---
+
 > MaX Saxe Design is dedicated to maintaining the highest standards throughout their web products. We have a set of standards that every web application, web site or other web engineering project must meet
 
 > The documentation is rigorous &amp; make sure all of the project stages are kept and met during the project
