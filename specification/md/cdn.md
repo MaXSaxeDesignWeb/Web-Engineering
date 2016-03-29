@@ -2,7 +2,9 @@
 
 ---
 
-# From [Max Saxe Design Hawk](https://github.com/MaXSaxeDesign/Hawk)
+> This specification is built from the CDN readme From [Max Saxe Design Hawk](https://github.com/MaXSaxeDesign/Hawk)
+
+---
 
 ## MaX Saxe Design Hawk is an evolving intelligent bot originally designed for Twitter, now supports Ello, Facebook, Instagram and YouTube
 
